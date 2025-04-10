@@ -13,8 +13,9 @@ A simple and modern starter template for building responsive websites. Perfect f
 - HTML
 - CSS
 
-## 📂 How to Use
+## 🌐 Live Demo
+Check out the live demo: [Website-Template Live](https://github.com/eyy4k/Website-Template/deployments/github-pages)
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/eyy4k/Website-Template.git
+
+
+   
